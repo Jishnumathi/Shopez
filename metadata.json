@@ -1,0 +1,6 @@
+{
+  "name": "ShopEZ",
+  "description": "ShopEZ is your one-stop destination for effortless online shopping with detailed reviews, smart discounts, secure checkout, and a robust seller dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
